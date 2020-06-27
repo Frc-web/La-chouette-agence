@@ -2010,6 +2010,11 @@ pre code {
     margin-left: auto
 }
 
+.row {
+    margin-right: 0px;
+    margin-left: 0px
+}
+
 .col-lg-1,
 .col-lg-10,
 .col-lg-11,
