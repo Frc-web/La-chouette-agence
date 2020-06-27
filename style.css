@@ -18,10 +18,22 @@ body {
     margin: 15px;
 }
 
-.contraste {
+.contraste-background {
     position: relative;
     text-shadow: 0px 0px 5px black;
     font-weight: bold;
+}
+
+.contraste-orange {
+    font-size: 15px;
+    font-weight: bold;
+    -webkit-text-stroke: 0.3px black;
+}
+
+.contraste-orange-liens {
+    font-size: 19px;
+    font-weight: bold;
+    -webkit-text-stroke: 0.2px black;
 }
 
 li {
@@ -723,7 +735,7 @@ p {
 
 .social {
     max-width: 400px;
-    margin: auto auto auto auto;
+    margin: 50px auto;
 }
 
 h2 {
